@@ -23,14 +23,14 @@ header {
   left: 0;
   width: 100%;
   z-index: 1000;
-  background: #655560;
+  background: black;
   padding: 2%;
   text-align: center;
 
 }
 
 .panel {
-  background-color: #655560;
+  background-color: black;
   color: #FCF7FF;
 
   width: 100%;
